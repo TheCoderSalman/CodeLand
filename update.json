@@ -2,6 +2,6 @@
    "version":"0.0.2",
    "setup":{
       "win64":"https://salman.pro/dl/CodeLand-x64-v0.0.2-beta.msi",
-      "win32":"https://github.com/SalmanTechnologies/CodeLand/releases/download/v0.0.2-beta/CodeLand-x86-v0.0.2-beta.msi"
+      "win32":"https://salman.pro/dl/CodeLand-x86-v0.0.2-beta.msi"
    }
 }
