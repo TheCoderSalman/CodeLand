@@ -1,7 +1,7 @@
 {
-   "version":"0.0.2",
+   "version":"0.0.3",
    "setup":{
-      "win64":"https://salman.link/dl/CodeLand-x64-v0.0.2-beta.msi",
-      "win32":"https://salman.link/dl/CodeLand-x86-v0.0.2-beta.msi"
+      "win64":"https://salman.link/dl/CodeLand-x64-v0.0.3-beta.msi",
+      "win32":"https://salman.link/dl/CodeLand-x86-v0.0.3-beta.msi"
    }
 }
